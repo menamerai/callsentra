@@ -1,0 +1,290 @@
+[1.778 : 2.098] SPEAKER_00:  Okay.
+[2.278 : 2.879] SPEAKER_01: So, do I get paid?
+[2.899 : 4.32] SPEAKER_00: You get paid?
+[5.781 : 7.963] SPEAKER_00: You're doing a service to science, my man.
+[8.423 : 9.944] SPEAKER_01: Oh, what more payment do I need?
+[10.104 : 10.885] SPEAKER_00: Well, exactly.
+[10.945 : 12.046] SPEAKER_00: I mean, you're in engineering.
+[12.706 : 13.647] SPEAKER_00: You like science, right?
+[14.648 : 15.708] SPEAKER_01: Uh, yeah, yeah.
+[15.848 : 18.21] SPEAKER_00: So, what's up, guys?
+[18.831 : 19.791] SPEAKER_00: So, are you going out tonight?
+[20.032 : 21.433] SPEAKER_01: No, no, I'm going to bed.
+[21.893 : 22.794] SPEAKER_00: Do you know what's going on tonight?
+[24.074 : 24.755] SPEAKER_01: Um, no.
+[25.235 : 25.436] SPEAKER_01: What?
+[25.936 : 26.336] SPEAKER_01: What's going on?
+[27.117 : 27.557] SPEAKER_00: I don't know.
+[27.617 : 29.839] SPEAKER_00: The love dog was already drinking.
+[30.799 : 31.92] SPEAKER_00:  We don't know where to go to yet.
+[32.5 : 32.72] SPEAKER_01: Yeah.
+[33.66 : 34.801] SPEAKER_01: I've already drank it.
+[35.321 : 40.644] SPEAKER_00: Well, I mean, I've only had two beers, but he's had, Josh has had about four, two shots.
+[41.784 : 43.985] SPEAKER_00: Even though we don't know whether I'll actually make it out yet or not.
+[45.726 : 47.547] SPEAKER_00: But, uh, okay.
+[48.147 : 50.208] SPEAKER_00: Let's see, we just gotta pass like five minutes.
+[50.308 : 50.889] SPEAKER_00: Is that cool, man?
+[51.509 : 51.829] SPEAKER_01: What's that?
+[52.129 : 54.25] SPEAKER_00: Just gotta pass like five minutes away.
+[54.27 : 54.691] SPEAKER_00: Is that cool?
+[54.791 : 56.091] SPEAKER_00: Can you be doing stuff while you're talking?
+[56.231 : 56.912] SPEAKER_01: Yeah, yeah, no problem.
+[57.612 : 58.092] SPEAKER_00: Aw, thanks.
+[58.152 : 59.533] SPEAKER_01: I'm wasting time as it is.
+[60.223 : 61.284] SPEAKER_00:  Oh, beautiful.
+[62.124 : 64.405] SPEAKER_00: So are you going out tomorrow night?
+[64.946 : 66.046] SPEAKER_01: I doubt it, actually.
+[66.106 : 66.466] SPEAKER_00: Why not?
+[66.686 : 67.767] SPEAKER_01: I've got so much work to do.
+[68.727 : 70.789] SPEAKER_01: I've got seven assignments due next week.
+[71.069 : 71.349] SPEAKER_00: Seven?
+[71.389 : 72.289] SPEAKER_00: How many classes you got?
+[72.99 : 74.03] SPEAKER_01: Just five.
+[74.05 : 74.971] SPEAKER_01: I have five and a half credits.
+[75.331 : 76.571] SPEAKER_00: And you have seven assignments still?
+[76.832 : 77.072] SPEAKER_01: Yeah.
+[77.412 : 78.432] SPEAKER_00: How is that possible?
+[78.532 : 81.914] SPEAKER_01: Well, they've doubled up in a couple of places.
+[82.174 : 83.675] SPEAKER_00: Would you like me to speak with the teachers?
+[84.475 : 84.636] SPEAKER_01: Yeah.
+[88.072 : 90.172] SPEAKER_00:  I don't think it'll help, but would you like me to speak with them?
+[92.493 : 96.194] SPEAKER_00: But, uh, why don't you come out for a little bit tomorrow after you've done your studying?
+[96.994 : 98.254] SPEAKER_00: Love Dogs Floor is having a party.
+[99.875 : 100.595] SPEAKER_00: Somewhat of a party.
+[100.655 : 101.395] SPEAKER_00: Yeah, floor party.
+[102.935 : 105.116] SPEAKER_00: And then, uh, you might go to Fiji.
+[107.056 : 109.497] SPEAKER_00: And there's always short of a fight to ensue there.
+[109.517 : 112.557] SPEAKER_00: Because they're fighting types as it is.
+[112.577 : 115.878] SPEAKER_00: We'll give Josh a few and Mark a few beers.
+[117.049 : 119.211] SPEAKER_00:  Well, Mark only needs one, but still.
+[119.231 : 122.713] SPEAKER_00: Anyway, I'm waiting for Mark to get back from a play.
+[123.594 : 125.755] SPEAKER_00: See, because he wants to go out tonight, maybe he'll find out what's going on.
+[127.556 : 133.66] SPEAKER_00: Yeah, did you know the coach said you were on the shit list, or you think we were just saying shit list just to be mad at you?
+[134.341 : 134.661] SPEAKER_00: No.
+[134.801 : 134.961] SPEAKER_00: What?
+[135.061 : 138.303] SPEAKER_00: Because when you weren't there yesterday, the coach goes, uh, Berkel?
+[139.244 : 139.624] SPEAKER_00: Berkel?
+[140.265 : 142.166] SPEAKER_00: We're like, has anyone seen Berkel?
+[142.506 : 143.307] SPEAKER_00: No one had seen Berkel.
+[145.555 : 149.577] SPEAKER_00:  It therefore followed that your coach goes, uh, Burkle's on the shit list.
+[150.258 : 150.558] SPEAKER_01: Yeah.
+[150.738 : 152.839] SPEAKER_01: Well, I did leave a message on the machine.
+[153.179 : 154.56] SPEAKER_01: And I was pretty worthless today.
+[154.58 : 156.141] SPEAKER_01: I mean, I would have been worse yesterday.
+[156.521 : 157.662] SPEAKER_00: Is that why the boat was rolling?
+[159.863 : 160.224] SPEAKER_00: Seriously?
+[160.244 : 162.045] SPEAKER_01: I hate to blame myself, but no.
+[162.405 : 163.706] SPEAKER_00: I hate to blame myself?
+[163.726 : 166.827] SPEAKER_01: You know, I'm going to have to hang up on you.
+[166.867 : 169.669] SPEAKER_01: My dart throwing skills is not hanging out the window.
+[170.79 : 171.69] SPEAKER_00: You're going to hang up on me?
+[171.83 : 172.331] SPEAKER_01: No, no.
+[172.531 : 173.431] SPEAKER_00: Give me three more minutes, dude.
+[173.451 : 174.092] SPEAKER_01: I would do that, yeah.
+[174.452 : 174.712] SPEAKER_00: Please?
+[175.18 : 175.74] SPEAKER_01:  I don't know.
+[176.08 : 177.041] SPEAKER_00: It's very important.
+[177.081 : 177.321] SPEAKER_01: Don't worry.
+[177.821 : 178.141] SPEAKER_00: Thanks.
+[178.201 : 178.841] SPEAKER_00: I appreciate it.
+[179.141 : 181.042] SPEAKER_01: What is this for?
+[181.282 : 181.602] SPEAKER_00: I don't know.
+[181.622 : 184.123] SPEAKER_00: You get a free call to anywhere in the country for 30 minutes.
+[184.904 : 186.764] SPEAKER_00: I think I may have asked you if you wanted to do it or not.
+[187.825 : 188.725] SPEAKER_00: Did I call you last week?
+[192.566 : 192.786] SPEAKER_00: No.
+[193.507 : 193.807] SPEAKER_01: Maybe.
+[193.947 : 194.967] SPEAKER_01: I don't know.
+[194.987 : 196.428] SPEAKER_00: I was trying to give it away to everybody.
+[196.828 : 197.628] SPEAKER_00: No one would accept it.
+[199.009 : 202.23] SPEAKER_00: And so now I've tried calling, however I could think of it.
+[202.29 : 202.71] SPEAKER_00: No one's home.
+[203.891 : 205.112] SPEAKER_00:  You were lucky enough to answer.
+[205.132 : 213.596] SPEAKER_00: I tried to call Poh, but his line was busy because, like, the waste of time is a contradiction in terms.
+[215.177 : 220.439] SPEAKER_00: And see what happens is, well, I don't mean to make you feel, I get $20.
+[220.519 : 224.081] SPEAKER_00: What do you think of that deal?
+[225.042 : 226.182] SPEAKER_01: For this phone call?
+[227.083 : 227.803] SPEAKER_00: Well, yeah.
+[230.064 : 232.926] SPEAKER_00: But it was a good deal if I could call anywhere I wanted in the country.
+[234.056 : 237.177] SPEAKER_00:  But I can't call it home, because then they'd be like, oh, so you got $20.
+[237.217 : 239.658] SPEAKER_00: You stand at home.
+[240.019 : 243.32] SPEAKER_00: So that means like breakfast is on me, dude.
+[244.26 : 244.901] SPEAKER_01: Yeah, that's good.
+[245.861 : 248.102] SPEAKER_00: But not tomorrow, because we decided against that, right?
+[249.003 : 249.443] SPEAKER_01: Because what?
+[249.463 : 250.643] SPEAKER_00: Because we decided against that.
+[251.624 : 252.704] SPEAKER_01: Yeah.
+[254.665 : 255.846] SPEAKER_01: Maybe the next weekend, though.
+[256.306 : 256.666] SPEAKER_00: Oh, yeah.
+[257.186 : 258.447] SPEAKER_00: That will be here for spring break.
+[258.467 : 259.687] SPEAKER_00: Maybe they'll be feeding this then, though.
+[259.967 : 260.508] SPEAKER_00: We can have that.
+[260.528 : 260.888] SPEAKER_01: Oh, that's right.
+[261.208 : 262.048] SPEAKER_01: Not on the weekends, though.
+[264.844 : 266.825] SPEAKER_00:  I think Mark might want to go out for breakfast Sunday.
+[266.845 : 271.286] SPEAKER_00: Do you know the track and turf?
+[272.167 : 272.347] SPEAKER_01: No.
+[272.967 : 275.048] SPEAKER_00: Yeah, it's a bar on 42nd and Chester.
+[276.028 : 276.729] SPEAKER_00: Nice neighborhood.
+[277.329 : 280.07] SPEAKER_00: Anyhow, he loves that place.
+[280.21 : 281.31] SPEAKER_00: I've frequented with that before.
+[281.35 : 281.55] SPEAKER_01: Oh no.
+[282.111 : 282.311] SPEAKER_00: What?
+[283.311 : 285.552] SPEAKER_01: I'm just getting killed here playing darts.
+[285.632 : 286.212] SPEAKER_00: Who are you playing?
+[286.732 : 287.833] SPEAKER_01: My roommate.
+[287.893 : 288.233] SPEAKER_00: Oh, are you?
+[288.933 : 290.054] SPEAKER_00: Oh, I thought you were by yourself.
+[290.114 : 290.554] SPEAKER_00: I'm sorry.
+[290.574 : 291.634] SPEAKER_01: I don't know.
+[292.094 : 292.475] SPEAKER_00: Oh, okay.
+[294.562 : 296.102] SPEAKER_01:  No, I'm just a long cord.
+[298.363 : 298.943] SPEAKER_00: I believe it.
+[299.463 : 301.683] SPEAKER_00: Oh, so anyhow, they have all-you-can-eat breakfast from 11 to 3.
+[301.763 : 303.284] SPEAKER_00: Huh?
+[304.244 : 304.684] SPEAKER_01: Yo, really?
+[305.124 : 305.484] SPEAKER_00: What's that?
+[305.604 : 306.004] SPEAKER_01: What'd you say?
+[306.104 : 306.604] SPEAKER_01: All-you-can-eat?
+[306.804 : 307.464] SPEAKER_00: All-you-can-eat breakfast.
+[307.484 : 307.864] SPEAKER_01: There you go.
+[309.065 : 309.445] SPEAKER_01: You winning?
+[309.745 : 310.005] SPEAKER_01: Yeah.
+[310.325 : 310.625] SPEAKER_00: You are?
+[310.645 : 312.265] SPEAKER_01: Uh, what is it?
+[312.585 : 313.065] SPEAKER_00: Are you winning?
+[313.725 : 316.306] SPEAKER_01: Uh, no, I just finally hit what I've been trying to hit the list.
+[317.806 : 318.566] SPEAKER_00: That makes you die?
+[319.326 : 319.567] SPEAKER_01: Yeah.
+[320.967 : 322.127] SPEAKER_00: Oh, so I was gonna tell you, uh,
+[325.242 : 325.662] SPEAKER_00:  Oh, okay.
+[326.002 : 327.003] SPEAKER_00: They have all-you-can-eat beer.
+[327.983 : 329.364] SPEAKER_00: No, wait, all-you-can-eat breakfast.
+[330.065 : 331.045] SPEAKER_00: They're $5.95.
+[332.546 : 339.69] SPEAKER_00: But we figure if we get there at 11 and don't leave until it's over at 3, that's a decent bargain.
+[341.911 : 343.892] SPEAKER_00: But what should we call it?
+[345.173 : 345.873] SPEAKER_00: So what do you think of that?
+[346.953 : 348.174] SPEAKER_00: Yeah.
+[348.374 : 349.115] SPEAKER_01: I don't know.
+[349.315 : 350.035] SPEAKER_01: Where is it?
+[350.555 : 351.396] SPEAKER_00: 42nd and Chester.
+[351.416 : 353.277] SPEAKER_00: It's actually kind of a nice place.
+[354.625 : 356.426] SPEAKER_00:  And in the daytime, it ain't so scary getting there.
+[357.207 : 358.808] SPEAKER_00: I've walked back from there at night by myself.
+[359.228 : 361.149] SPEAKER_00: I'm just kidding about the neighborhood.
+[361.89 : 362.57] SPEAKER_01: Yeah.
+[362.59 : 364.692] SPEAKER_00: It's kind of like you go to Murph's and then go three more blocks.
+[364.712 : 364.872] SPEAKER_00: No.
+[366.153 : 371.697] SPEAKER_00: But I was just thinking about doing that.
+[371.877 : 373.478] SPEAKER_01: Holy shit.
+[374.278 : 375.459] SPEAKER_01: What's the matter?
+[375.879 : 377.861] SPEAKER_01: Oh, darn it.
+[378.862 : 379.502] SPEAKER_01: I think I won.
+[380.242 : 380.603] SPEAKER_00: Did you?
+[381.083 : 382.364] SPEAKER_00: You were telling me how bad you were doing.
+[383.144 : 383.665] SPEAKER_01: Yeah, 50, right?
+[385.353 : 385.693] SPEAKER_01:  I got two?
+[385.713 : 388.655] SPEAKER_01: Or just one?
+[392.157 : 393.658] SPEAKER_01: Yeah, I won, I don't believe it.
+[394.499 : 396.12] SPEAKER_00: So maybe you weren't doing so bad after all.
+[396.56 : 397.461] SPEAKER_01: No, well I got lucky.
+[398.161 : 402.664] SPEAKER_00: I'm gonna have to say, uh... I'm good luck.
+[403.025 : 403.965] SPEAKER_00: I'm very good luck.
+[403.985 : 407.748] SPEAKER_00: See, you thought it was bad, but I'm not.
+[408.708 : 409.569] SPEAKER_01: So, um, why?
+[409.629 : 410.349] SPEAKER_01: Well, we'll do that.
+[410.85 : 413.191] SPEAKER_01: And, uh... Oh, yeah.
+[415.495 : 416.675] SPEAKER_00:  Drag it out, drag it out.
+[416.795 : 417.596] SPEAKER_00: Go ahead, take your time.
+[417.656 : 418.536] SPEAKER_00: Choose the words carefully.
+[421.057 : 422.658] SPEAKER_01: Well, yeah, we'll do that.
+[422.818 : 424.598] SPEAKER_01: We'll hit the track and turf.
+[426.299 : 427.359] SPEAKER_00: Yeah, that's the name of the place.
+[428.46 : 429.96] SPEAKER_00: Would you like me to read you?
+[431.481 : 432.741] SPEAKER_00: I'm looking at Playboy as we speak.
+[432.761 : 433.521] SPEAKER_01: How much longer do we have?
+[434.582 : 437.083] SPEAKER_00: Well, I forgot the look of when I picked up.
+[438.343 : 440.264] SPEAKER_00: But how about two more minutes?
+[440.724 : 442.505] SPEAKER_01: No, I think two more minutes is all I need.
+[442.605 : 443.045] SPEAKER_00: Is that all right?
+[445.063 : 445.603] SPEAKER_00:  Is that okay?
+[446.644 : 447.564] SPEAKER_01: Uh, yeah.
+[448.024 : 448.364] SPEAKER_00: Okay.
+[450.345 : 451.346] SPEAKER_00: All right, I'm going to read you.
+[451.726 : 456.608] SPEAKER_00: Help, I bought a modem from my computer so I'd be able to pick up ladies online, but I keep striking out.
+[457.128 : 457.848] SPEAKER_00: What's the secret?
+[458.029 : 459.329] SPEAKER_00: MR, Tacoma Park, Maryland.
+[460.21 : 460.79] SPEAKER_00: You're not alone.
+[461.03 : 462.651] SPEAKER_00: Relatively few women hang out online.
+[463.751 : 464.872] SPEAKER_00: And then blah, blah, blah, blah, blah.
+[468.473 : 469.974] SPEAKER_00: You telling me you don't find that interesting?
+[470.214 : 470.494] SPEAKER_01: No.
+[471.714 : 472.715] SPEAKER_00: Oh, I'm sorry.
+[474.651 : 476.393] SPEAKER_00:  So um... You're starting to get cranky on me.
+[476.693 : 476.933] SPEAKER_01: No.
+[477.273 : 478.434] SPEAKER_00: Yeah, yeah.
+[478.454 : 480.576] SPEAKER_01: So you're gonna err tomorrow?
+[481.076 : 485.861] SPEAKER_00: Uh yeah, I was thinking about getting up like 1130 and uh, lifting a little bit and then erging.
+[486.401 : 487.222] SPEAKER_01: I want you to err first.
+[487.742 : 489.704] SPEAKER_00: Because then I'll be all sweaty when I go to lift.
+[490.284 : 491.405] SPEAKER_01: Oh that's right, you gotta look good.
+[492.186 : 494.768] SPEAKER_00: Well no, I don't want to just sweat up everything.
+[496.73 : 498.071] SPEAKER_00: Fine, well why, what time are you gonna go err?
+[499.712 : 501.754] SPEAKER_01: Uh, sometime, probably, I don't know.
+[502.705 : 503.345] SPEAKER_01:  I got to go though.
+[503.385 : 504.625] SPEAKER_01: I haven't been out in a week.
+[504.645 : 505.546] SPEAKER_01: I haven't been out since Monday.
+[505.866 : 507.006] SPEAKER_00: You haven't been what since Monday?
+[507.066 : 508.186] SPEAKER_01: I haven't been arrogant since Monday.
+[508.606 : 509.706] SPEAKER_00: Oh, I only heard once this week.
+[509.726 : 510.547] SPEAKER_00: I heard Tuesday.
+[510.567 : 512.407] SPEAKER_01: Right in today, I thought.
+[513.707 : 515.808] SPEAKER_00: Oh, yeah, but I didn't really do the workout today.
+[517.168 : 518.788] SPEAKER_00: Did you hear about what happened today?
+[520.049 : 520.289] SPEAKER_01: What?
+[521.009 : 521.849] SPEAKER_00: Oh yeah, you were there.
+[522.069 : 523.509] SPEAKER_01: Oh, I was the one who was almost killed.
+[524.13 : 524.79] SPEAKER_00: Oh, how was your dinner?
+[524.81 : 526.41] SPEAKER_01: Oh, it was good.
+[526.721 : 527.261] SPEAKER_00:  What would you get?
+[527.541 : 528.562] SPEAKER_00: Did you really have a dinner?
+[528.922 : 529.402] SPEAKER_00: Yeah.
+[529.662 : 530.082] SPEAKER_01: No, no.
+[530.443 : 531.723] SPEAKER_01: A couple guys came over.
+[531.763 : 535.105] SPEAKER_01: We cooked some pasta and had some beers.
+[535.505 : 535.685] SPEAKER_00: Yeah.
+[535.785 : 537.345] SPEAKER_01: Yeah, it was a good time.
+[537.606 : 537.866] SPEAKER_00: Wow.
+[538.726 : 541.147] SPEAKER_01: No, yeah, I wouldn't.
+[541.687 : 542.988] SPEAKER_00: Your presence was still missed, though.
+[543.928 : 546.129] SPEAKER_01: Yeah, well, I'll go there next week.
+[546.329 : 547.03] SPEAKER_00: Yeah, yeah.
+[547.77 : 550.291] SPEAKER_01: You know, I haven't been there in two weeks.
+[550.551 : 554.573] SPEAKER_00: It's always a pleasure when Terp's there, too, because he was in top form.
+[554.873 : 555.033] SPEAKER_01: Yeah.
+[556.178 : 556.859] SPEAKER_00:  The kid's a loon.
+[559.08 : 560.141] SPEAKER_00: He was at dinner last night.
+[560.161 : 561.742] SPEAKER_00: You know the freshman, correct?
+[562.002 : 563.143] SPEAKER_00: Cox and Greg Giordano.
+[564.403 : 570.427] SPEAKER_00: The next day, today, he asked me, is Terp normally like that, or is he just kidding around?
+[570.988 : 572.028] SPEAKER_00: I was like, no, that's Terp.
+[574.21 : 577.132] SPEAKER_00: People just don't realize it, but he's just that weird.
+[578.392 : 580.174] SPEAKER_01: Well, anyway.
+[581.089 : 582.07] SPEAKER_01:  to get back to my game.
+[582.11 : 584.551] SPEAKER_00: Yeah, I think the two minutes, I greatly appreciate this.
+[584.811 : 585.971] SPEAKER_01: Yeah, no problem.
+[587.492 : 587.872] SPEAKER_00: Wherever.
+[588.173 : 590.194] SPEAKER_00: I'll make sure we give you a call if we're doing a Sunday deal.
+[591.074 : 594.116] SPEAKER_01: And what time did you think you were arrogant about?
+[594.816 : 596.517] SPEAKER_01: Maybe noon, let's say.
+[597.097 : 597.417] SPEAKER_00: Noon.
+[597.657 : 599.398] SPEAKER_01: Noon or one or two, somewhere like that.
+[599.718 : 600.819] SPEAKER_00: Noon or one or two.
+[601.179 : 602.44] SPEAKER_01: Yeah, I'll see how it goes.
+[602.46 : 604.381] SPEAKER_00: You can give me a call before you leave if you want.
+[604.541 : 605.061] SPEAKER_00: I might be out.
+[605.401 : 606.042] SPEAKER_01: All right.
+[606.062 : 606.382] SPEAKER_00: Cool, dude.
+[606.662 : 607.302] SPEAKER_00: All right, I'll do it.
+[607.342 : 608.183] SPEAKER_00: Thanks a lot.
+[608.203 : 608.503] SPEAKER_01: You too.
