@@ -11,13 +11,31 @@ package-mode = false
 python = "^3.10"
 streamlit = "^1.32.2"
 whisperx = {git = "https://github.com/m-bain/whisperx.git"}
-torch = { url = "https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-win_amd64.whl" }
 python-dotenv = "^1.0.1"
+torch = {version="^2.2.1+cu121", source = "pytorch-gpu" }
+langchain = "^0.1.13"
+ffmpeg = "^1.4"
+ffmpeg-python = "^0.2.0"
+langchain-community = "^0.0.29"
+langchain-openai = "^0.1.1"
+ipykernel = "^6.29.3"
+bitsandbytes = "0.42.0"
+beautifulsoup4 = "^4.12.3"
+sentence-transformers = "^2.6.0"
+chromadb = "^0.4.24"
+langchainhub = "^0.1.15"
+langchain-experimental = "^0.0.55"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.6.2"
 black = "^24.2.0"
 isort = "^5.13.2"
+
+
+[[tool.poetry.source]]
+name = "pytorch-gpu"
+url = "https://download.pytorch.org/whl/cu121"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]

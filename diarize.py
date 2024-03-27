@@ -1,8 +1,13 @@
 import datetime
 import json
-
+from pathlib import Path
 import whisperx
 
+def get_token(): 
+    import os
+    from dotenv import load_dotenv
+    load_dotenv()
+    return os.environ.get("HF_TOKEN")
 
 def raw_diarize(
     hf_token: str,
@@ -62,6 +67,7 @@ def raw_diarize(
     model = whisperx.load_model(
         whisper_arch=whisper_model, device=device, compute_type=compute_type
     )
+
     audio = whisperx.load_audio(audio_path)
     raw_transcript = model.transcribe(audio, batch_size=batch_size)
 
@@ -97,9 +103,11 @@ if __name__ == "__main__":
     from dotenv import load_dotenv
 
     load_dotenv()
-    hf_token = os.environ.get("HF_TOKEN")
-    audio_path = "./audio/phone_call.mp3"
-    output_path = "./output/phone_call.json"
+    hf_token = get_token()
+
+    # audio_path = Path("./audio/sample2.mp3")
+    audio_path = "sample2.mp3"
+    output_path = "./output/sample2.json"
     device = "cuda"
     batch_size = 16
     compute_type = "float16"
